@@ -1,1 +1,2 @@
 # waxom
+html, css
