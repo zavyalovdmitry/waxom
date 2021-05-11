@@ -1,2 +1,2 @@
 # waxom
-html, css
+html, scss
